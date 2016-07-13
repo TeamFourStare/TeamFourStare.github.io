@@ -107,8 +107,8 @@ body {
     margin-top: 20px;
   }
 
-  @media.imgform { width:max;
-    height: max;
+  img.first-slide { width:auto;
+    height: auto;
 
   }
 
