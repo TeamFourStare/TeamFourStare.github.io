@@ -4,7 +4,8 @@
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  color: #00b4b4;
+  background-color: #000;
 }
 
 
@@ -31,6 +32,7 @@ body {
 }
 .navbar-wrapper .navbar .container {
   width: auto;
+
 }
 
 
@@ -68,6 +70,7 @@ body {
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
+   color: #00b4b4;
 }
 .marketing h2 {
   font-weight: normal;
@@ -90,6 +93,7 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
+   color: #00b4b4;
 }
 
 
