@@ -1,0 +1,62 @@
+
+footer {
+  width: 100%
+}
+body, html, header {
+height : 100%;
+width : 100%;
+}
+body {
+background-image : url(images/cover.jpg);
+background-position : center center;
+background-repeat : no-repeat;
+background-attachment : fixed;
+background-size : cover;
+background-color : #000080;
+margin : 0;
+display : table;
+}
+.container {
+display : table-cell;
+text-align : center;
+vertical-align : middle;
+margin: 0em 0em 0em 0em;
+}
+a:active, a:hover, a:visited, a:link {
+border-top : 1px solid #96d1f8;
+background : #65a9d7;
+padding : 3px 8px;
+border-radius : 40px;
+box-shadow : 0 1px 0 rgba(0, 0, 0, 1);
+text-shadow : 0 1px 0 rgba(0, 0, 0, 0.4);
+color : #decd16;
+font-size : 28px;
+font-family : 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+text-decoration : none;
+vertical-align : center;
+opacity : 0.77;
+}
+a:hover {
+border-top-color : #6174A8;
+background : #6174A8;
+color : #cccccc;
+}
+a:active {
+border-top-color : #1b435e;
+background : #1b435e;
+}
+
+.footerholder {
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+.footer {
+    background: none repeat scroll #000;
+    height: 100px;
+    margin: auto;
+    width: 400px;
+}
