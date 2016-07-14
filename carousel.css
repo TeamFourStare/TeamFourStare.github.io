@@ -39,7 +39,8 @@ body {
 /*------------------------------------------------*/
 
 .video { display:inline-block;
-vertical-align: left;
+vertical-align: center;
+text-align: left;
 margin: 0 auto;
 padding-top: 10%;
 height: auto;
