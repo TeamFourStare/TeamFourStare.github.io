@@ -11,14 +11,3 @@ kl-dark teal
 je- teal
 es-yellow*/
 
-/*changing carousel images on mobile*/
-@media(max-width:300px){
-    #background{
-        height:400px;
-        width: 700px;
-    }
-}
-
-.mobimg {
-	width:33%;
-}
