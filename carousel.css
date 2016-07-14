@@ -77,10 +77,15 @@ padding:20px;
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
+/*marketing container*/
+.container .marketing {
+  padding-top: 20px;
+}
 
 /* Center align the text within the three columns below the carousel */
+
 .marketing .col-lg-4 {
-  padding-top: 40px;
+  padding-top: 50px;
   margin-bottom: 20px;
   text-align: center;
    color: #00b4b4;
