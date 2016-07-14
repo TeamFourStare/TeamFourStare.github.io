@@ -4,12 +4,14 @@ body {
 
 }
 
-#lesl {
-	color: #ff8c1a ;
-}
-
 /*le-orange
 kl-dark teal
 je- teal
 es-yellow*/
 
+/*video css*/
+.video { display:inline-block;
+vertical-align: center;
+height: auto;
+width: auto; 
+ }
