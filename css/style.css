@@ -4,6 +4,12 @@ body {
 
 }
 
+.logo {
+	display: inline-block;
+	max-height: 10%;
+	max-width: 10%;
+
+}
 
 /*le-orange
 kl-dark teal
