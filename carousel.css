@@ -124,6 +124,7 @@ padding:20px;
   line-height: 1;
   letter-spacing: -1px;
   color: #00b4b4;
+  padding-top: auto;
 }
 .col-md-7 {
   padding-left: 30px;
