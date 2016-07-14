@@ -122,7 +122,10 @@ padding:20px;
   color: #00b4b4;
 }
 
-
+/*Edit footer*/
+.bot {
+  padding-top: 50%;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
