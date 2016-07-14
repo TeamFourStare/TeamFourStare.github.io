@@ -107,7 +107,7 @@ body {
     margin-top: 20px;
   }
 
-  img.first-slide { width:auto;
+  img .first-slide { width:100%;
     height: auto;
 
   }
