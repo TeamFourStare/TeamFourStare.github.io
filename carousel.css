@@ -57,12 +57,14 @@ h1 .cap{
 
 .video { position:relative;
 align-content: center;
-padding-top: 20px;
+padding-top: 40px;
 padding:20px;
  }
 
 .vidsep {
-  border-color: #f79744}
+  border-color: #f79744
+weight:10px;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
