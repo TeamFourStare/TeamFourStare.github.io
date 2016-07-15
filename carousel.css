@@ -47,7 +47,21 @@ vertical-align: center;
 padding-top: 20px;
 padding:20px;
  }
-
+ 
+ /* test vcontent */
+.vcontent {
+  text-align:left;
+  padding-left:45px;
+  padding-top:20px;
+  font-size:medium;
+}
+/* h3 content headings and fonts */
+strong {
+color: #fae596;
+}
+h1, h3 {
+  color:#fae596;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
