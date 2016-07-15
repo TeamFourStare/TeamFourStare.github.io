@@ -44,9 +44,8 @@ body {
 
 .video { display:inline-block;
 vertical-align: center;
-text-align: left;
 margin: 0 auto;
-padding-top: 10%;
+padding-top: 20px;
 height: auto;
 width: auto; 
 padding:20px;
