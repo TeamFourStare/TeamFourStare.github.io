@@ -19,16 +19,14 @@ body {
 strong {
 color: #fae596;
 }
-h3 {
+h2, h3 {
   color:#fae596;
 }
 h1 {
   color:#F57C13;
 }
 
-h2 {
-  color:;
-}
+
 /*IN THE MTT PAGE CLASS YELLOW*/
 .yellow {
   color: #F9F471;
@@ -36,6 +34,9 @@ h2 {
   font-size: 21px;
   font-weight: 300;
   line-height: 1.4;
+}
+.orange {
+  color:#F57C13;
 }
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
