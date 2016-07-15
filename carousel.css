@@ -69,7 +69,7 @@ h1 {
 /*------------------------------------------------*/
 
 .video { position:relative;
-align-content: center;
+text-align: center;
 padding-top: 40px;
 padding:20px;
 height: 100%
@@ -146,9 +146,6 @@ weight:10px;
   font-size: 15px;
 }
 
-.col-md-5 {
-  border-radius: 70%;
-}
 
 /* Featurettes
 ------------------------- */
