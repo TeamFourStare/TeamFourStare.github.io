@@ -19,7 +19,7 @@ body {
 strong {
 color: #fae596;
 }
-h1, h3 {
+h1 .cap , h3 {
   color:#fae596;
 }
 /* CUSTOMIZE THE NAVBAR
