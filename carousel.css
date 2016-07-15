@@ -42,12 +42,9 @@ body {
 /*CUSTOMIZE THE VIDEOS*/ 
 /*------------------------------------------------*/
 
-.video { display:inline-block;
+.video { 
 vertical-align: center;
-margin: 0 auto;
 padding-top: 20px;
-height: auto;
-width: auto; 
 padding:20px;
  }
 
