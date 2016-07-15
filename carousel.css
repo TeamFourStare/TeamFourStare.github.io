@@ -19,8 +19,11 @@ body {
 strong {
 color: #fae596;
 }
-h1 .cap , h3 {
+h3 {
   color:#fae596;
+}
+h1 .cap{
+  color:#f79744;
 }
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -47,9 +50,7 @@ h1 .cap , h3 {
   width: auto;
 
 }
-.navbar-brand {
-  color:#f79744;
-}
+
 
 /*CUSTOMIZE THE VIDEOS*/ 
 /*------------------------------------------------*/
