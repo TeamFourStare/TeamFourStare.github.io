@@ -22,8 +22,8 @@ color: #fae596;
 h3 {
   color:#fae596;
 }
-h1 .cap{
-  color:#f79744;
+h1 {
+  color:#F57C13;
 }
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -69,7 +69,15 @@ weight:10px;
 }
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
-
+/*first item in carousel*/
+#same {
+  font-weight: 15px;
+  color:#fff;
+}
+/*item colours*/
+.carcont {
+  color:#000;
+}
 /* Carousel base class */
 .carousel {
   height: 500px;
