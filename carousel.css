@@ -55,7 +55,7 @@ h1 .cap{
 /*CUSTOMIZE THE VIDEOS*/ 
 /*------------------------------------------------*/
 
-.video { 
+.video { position:relative;
 vertical-align: center;
 padding-top: 20px;
 padding:20px;
